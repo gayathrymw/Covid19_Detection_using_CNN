@@ -4,4 +4,4 @@ By training a CNN model on a large dataset of chest X-ray images, consisting of 
 
 To run the gui type ipython covidgui.py in your terminal window
 
-The dataset was taken from https://www.kaggle.com/datasets/khoongweihao/covid19-xray-dataset-train-test-sets
+The dataset was taken from https://www.kaggle.com/datasets/fusicfenta/chest-xray-for-covid19-detection
